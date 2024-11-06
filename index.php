@@ -11,7 +11,7 @@ if ($result >= 50){
 }
 echo "<br><br>";
 
-for($a=0;$a<=10;$a++){
+for($a = 0; $a <= 10; $a++){
     echo "The number is ".$a.". <br><br>";
 }
 $car = array("Volvo", "BMW", "Toyota");
