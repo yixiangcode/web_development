@@ -4,7 +4,7 @@ class car{
     public $model = "";
 
     public function setModel ($newwal){
-        $this->model = $newwal;
+        $this -> model = $newwal;
     }
 
     public function getModel(){
